@@ -1,0 +1,3 @@
+#!/bin/bash
+
+# Shell compression script content here...

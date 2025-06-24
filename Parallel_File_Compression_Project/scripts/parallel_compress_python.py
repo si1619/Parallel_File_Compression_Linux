@@ -1,0 +1,3 @@
+#!/usr/bin/env python3
+
+# Python compression script content here...
