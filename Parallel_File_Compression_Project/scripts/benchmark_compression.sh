@@ -1,3 +1,0 @@
-#!/bin/bash
-
-# Benchmark script content here...
